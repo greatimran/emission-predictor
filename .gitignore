@@ -1,0 +1,13 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large model files (ignore so only zip files are uploaded to GitHub)
+*.joblib
+*.pkl
+
+# Local virtual environment
+.venv/
+venv/
+ENV/
